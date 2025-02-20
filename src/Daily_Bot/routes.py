@@ -33,7 +33,7 @@ def get_integration_json(request: Request):
             "author": "jeffmaine",
             "settings": [
                 {
-                    "label": "time interval",
+                    "label": "interval",
                     "type": "text",
                     "required": True,
                     "default": "* * * * *"
